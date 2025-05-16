@@ -1,4 +1,7 @@
-Apex Specialist Superbadge
+# Superbadge: Apex Specialist
+
+- [Superbadge Requirements](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_apex)
+- [Challenge Help](https://trailhead.salesforce.com/help?article=Apex-Specialist-Superbadge-Challenge-Help)
 ---
 
 ## 📘 一、背景需求简述
